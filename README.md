@@ -1,10 +1,6 @@
 # A framed greeting
 
 The program greets you with a message surrounded in a frame of asterisks after you enter your name.
-<<<<<<< v1.0
-It also asks to enter the size of the frame.
-=======
-
 
 ## How to run
 
